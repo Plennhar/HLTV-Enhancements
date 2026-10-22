@@ -34,7 +34,7 @@ installation this way and extracts the files itself.
 These are local Developer mode installations intended to remain installed
 across browser restarts. Keep Developer mode and the extension enabled.
 Developer-mode reminders may appear. ZIP installation uses a browser-managed
-extracted copy; the fallback uses the folder you extracted yourself.
+extracted copy.
 
 If a browser build, employer, or school policy blocks Developer mode or local
 extensions, manual installation is unavailable there. A normal store-style
